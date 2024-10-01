@@ -11,4 +11,4 @@ If you use my codes, please contact me. Discord = dr_wellss
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/main/mfg.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/main/mfg_11.png?raw=true)
