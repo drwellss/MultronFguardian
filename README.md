@@ -4,10 +4,10 @@ You can encrypt your files with one click.
 
 It has two symmetric and two hybrid algorithms:
 
-AES256
-Serpent256
-AES256-RSA2048 Hybrid Algorithm
-Serpent256-RSA2048 Hybrid Algorithm
+- AES256
+- Serpent256
+- AES256-RSA2048 Hybrid Algorithm
+- Serpent256-RSA2048 Hybrid Algorithm
 
 
 
