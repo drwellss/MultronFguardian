@@ -1,0 +1,11 @@
+D:\yazilim\multronfileguardian\bin\Debug\multronfileguardian.exe.config
+D:\yazilim\multronfileguardian\bin\Debug\multronfileguardian.exe
+D:\yazilim\multronfileguardian\bin\Debug\multronfileguardian.pdb
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.csproj.AssemblyReference.cache
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.Form1.resources
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.Properties.Resources.resources
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.csproj.GenerateResource.cache
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.csproj.CoreCompileInputs.cache
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.exe
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.pdb
+D:\yazilim\multronfileguardian\obj\Debug\multronfileguardian.Form2.resources
