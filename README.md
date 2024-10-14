@@ -2,7 +2,7 @@ Multron File Guardian provides you a strong file encryption.
 
 You can encrypt your files with one click.
 
-It has two symmetric and two hybrid algorithms:
+It has many algorithms:
 
 - AES256
 - Serpent256
