@@ -23,7 +23,7 @@ If you're about to share a file securely, then you may want to use one of Hybrid
 
 Encrypted File Extension = .mfg
 
-If you use my codes, please contact me. Discord = dr_wellss
+If you use my codes, please contact me. Discord = dexter_morgan3169
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
