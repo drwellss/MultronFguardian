@@ -20,6 +20,7 @@ You can set RSA Key Length (from 2048 to 16384)
 
 If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 
+You can compress your files before encryption.
 
 Encrypted File Extension = .mfg
 
