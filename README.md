@@ -26,7 +26,7 @@ Encrypted File Extension = .mfg
 
 If you use my codes, please contact me. Discord = dexter_morgan3169
 
-If you encrypted your files with older version of MFG, You cant decrypt them with MFG 1.3.3, this version contains important security updates, please decrypt them with older version and update your program to newest version, you can find them from DOWNLOADS below
+If you encrypted your files with older version of MFG, You cant decrypt them with MFG 1.3.3, this version contains important security updates, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
 
 
 
