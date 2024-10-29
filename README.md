@@ -9,11 +9,13 @@ It has many algorithms:
 - Twofish256
 - ThreeFish256
 - Camellia256
+- ChaCha20_256
 - AES256-RSA Hybrid Algorithm
 - Serpent256-RSA Hybrid Algorithm
 - Twofish256-RSA Hybrid Algorithm
 - ThreeFish256-RSA Hybrid Algorithm
 - Camellia256-RSA Hybrid Algorithm
+- ChaCha20_256-RSA Hybrid Algorithm
 
 You can set RSA Key Length (from 2048 to 16384)
 
@@ -26,7 +28,7 @@ Encrypted File Extension = .mfg
 
 If you use my codes, please contact me. Discord = dexter_morgan3169
 
-If you encrypted your files with older version of MFG, You cant decrypt them with MFG 1.3.3, this version contains important security updates, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
+If you encrypted your files with older version of MFG than 1.3.3, You cant decrypt them with MFG 1.3.3 or newest version, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
 
 
 
