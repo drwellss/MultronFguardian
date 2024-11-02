@@ -4,21 +4,22 @@ You can encrypt your files with one click.
 
 It has many algorithms:
 
-- AES256
-- Serpent256
-- Twofish256
-- ThreeFish256
-- Camellia256
-- ChaCha20_256
-- AES256-RSA Hybrid Algorithm
-- Serpent256-RSA Hybrid Algorithm
-- Twofish256-RSA Hybrid Algorithm
-- ThreeFish256-RSA Hybrid Algorithm
-- Camellia256-RSA Hybrid Algorithm
-- ChaCha20_256-RSA Hybrid Algorithm
+- AES
+- Serpent
+- Twofish
+- ThreeFish
+- Camellia
+- ChaCha20
+- AES-RSA Hybrid Algorithm
+- Serpent-RSA Hybrid Algorithm
+- Twofish-RSA Hybrid Algorithm
+- ThreeFish-RSA Hybrid Algorithm
+- Camellia-RSA Hybrid Algorithm
+- ChaCha20-RSA Hybrid Algorithm
 
 You can set RSA Key Length (from 2048 to 16384)
 
+You can also set Symmetric Algorithm Key Size
 
 If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 
@@ -34,4 +35,4 @@ If you encrypted your files with older version of MFG than 1.3.3, You cant decry
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg_133_rls/mfguardian.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg_135_r/mfileg.png?raw=true)
