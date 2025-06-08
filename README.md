@@ -36,3 +36,5 @@ If you encrypted your files with older version of MFG than 1.3.3, You cant decry
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
 ![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg_136_r/mfguard.png?raw=true)
+
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg_137r/mfgblack.png?raw=true)
