@@ -1,24 +1,25 @@
-# MultronFguardian
+# Multron File Guardian
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2023--09--24-brightgreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--06--10-brightgreen)
 
 ---
 
-**MultronFguardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date: **September 24, 2023**   
+**Multron File Guardian** is an advanced file encryption software that supports many algorithms.
+> 📅 Release date of current version: **June 10, 2025**
+> 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.3 Release**   
-> 📦 Next release: **Fill it according to your own wishes**   
-> ⏳ Next release status: **Fill it according to your own wishes**   
-> 🛠️ Next release type: **Fill it according to your own wishes** 
+> 📦 Current version: **Multron File Guardian 1.3.9.2 Release**   
+> 📦 Next release: **It may be version 1.4, supports cross-platform, a new design. but date is unknown**
 
 ---
 
 ## 📚 About
  
-- 🔐 Multron File Guardian size güçlü bir dosya şifreleme sağlar.
-- ✅ Dosyalarınızı tek bir tıklama ile şifreleyebilirsiniz.
+- 🔐 Multron File Guardian provides you a strong file encryption.
+- ✅ You can encrypt your files with one click.
+
+- ✅ Thanks to LinuxUsersLinuxMint for writing this readme file.
 
 ---
 
@@ -30,12 +31,7 @@
 - 🔐 ThreeFish
 - 🔐 Camellia
 - 🔐 ChaCha20
-- 🔐 AES-RSA Hybrid Algorithm
-- 🔐 Serpent-RSA Hybrid Algorithm
-- 🔐 Twofish-RSA Hybrid Algorithm
-- 🔐 ThreeFish-RSA Hybrid Algorithm
-- 🔐 Camellia-RSA Hybrid Algorithm
-- 🔐 ChaCha20-RSA Hybrid Algorithm
+- 🔐 RSA Hybrided With Symmetric Algorithms
 
 * You can set RSA Key Length (from 2048 to 16384) (it dont include 3072)
 * You can also set Symmetric Algorithm Key Size
