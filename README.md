@@ -17,8 +17,8 @@
 
 ## 📚 About
  
-- 🔐 Multron File Guardian size güçlü bir dosya şifreleme sağlar.
-- ✅ Dosyalarınızı tek bir tıklama ile şifreleyebilirsiniz.
+- 🔐 Multron File Guardian provides you with strong file encryption.
+- ✅ You can encrypt your files with a single click.
 
 ---
 
