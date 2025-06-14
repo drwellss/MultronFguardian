@@ -1,12 +1,12 @@
 # Multron File Guardian
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--06--10-brightgreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--06--9-brightgreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date of current version: **June 10, 2025**   
+> 📅 Release date of current version: **June 9, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
 > 📦 Current version: **Multron File Guardian 1.3.9.2 Release**   
