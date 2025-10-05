@@ -1,7 +1,7 @@
 # Multron File Guardian
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--06--9-brightgreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--09--14-green)
 
 ---
 
