@@ -50,6 +50,6 @@
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg_136_r/mfguard.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b/mfguard.png?raw=true)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1392_r/mfgdark.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b/mfgdark.png?raw=true)
