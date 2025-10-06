@@ -9,8 +9,8 @@
 > 📅 Release date of current version: **October 14, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.4 Beta**   
-> 📦 Next release: **1.4 Release**
+> 📦 Current version: **Multron File Guardian 1.4 Beta 2**   
+> 📦 Next release: **1.4 Release, A feature named Multron NoteGuard Will bee added.**
 
 ---
 
@@ -50,6 +50,6 @@
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b/mfguard.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b2/mfguard.png?raw=true)
 
 ![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b/mfgdark.png?raw=true)
