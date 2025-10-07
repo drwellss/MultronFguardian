@@ -46,6 +46,8 @@
 - 📚 If you encrypted your files with older version of MFG than 1.3.3, You cant decrypt them with MFG 1.3.3 or newest version, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
 - 📚 If you encrypted your files with older version of MFG than 1.3.9.3, You have to set password iteration rate to 125 from settings to decrypt your files properly, otherwise they wont be decrypted
 
+##  https://discord.gg/wbNCYJf69J  =   Multron Discord Server - a place that you can get support or talk about technology
+
 ## Downloads
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
