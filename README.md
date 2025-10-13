@@ -1,16 +1,16 @@
 # Multron File Guardian
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--10--6-darkseagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--10--13-darkseagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date of current version: **October 10, 2025**   
+> 📅 Release date of current version: **October 13, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.4 Beta 2**   
-> 📦 Next release: **1.4 Beta 3, A feature named Multron NoteGuard Will be added.**
+> 📦 Current version: **Multron File Guardian 1.4 Release**   
+> 📦 Next release: **1.4.1**
 
 ---
 
@@ -18,6 +18,7 @@
  
 - 🔐 Multron File Guardian provides you a strong file encryption.
 - ✅ You can encrypt your files with one click.
+- ✅ You can also protect your notes with Multron NoteGuard.
 
 - ✅ Thanks to LinuxUsersLinuxMint for writing this readme file.
 
@@ -39,7 +40,7 @@
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 * You can compress your files before encryption.
 - 🔐 Encrypted File Extension = .mfg
-
+- 🔐 Multron NoteGuard Encrypted File Extension = .mng
 ## 📚 Notes
 
 - 📚 If you use my codes, please contact me.
@@ -52,6 +53,12 @@
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b2/mfguard.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mfguard.png?raw=true)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4b/mfgdark.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mfgdark.png?raw=true)
+
+
+
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mnguard.png?raw=true)
+
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mngdark.png?raw=true)
