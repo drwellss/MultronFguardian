@@ -6,7 +6,7 @@
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date of current version: **October 10, 2025**   
+> 📅 Release date of current version: **October 6, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
 > 📦 Current version: **Multron File Guardian 1.4 Beta 2**   
