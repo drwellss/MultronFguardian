@@ -34,7 +34,7 @@
 - 🔐 ChaCha20
 - 🔐 RSA Hybrided With Symmetric Algorithms
 
-* You can set RSA Key Length (from 2048 to 16384) (it dont include 3072)
+* You can set RSA Key Length (from 2048 to 16384)
 * You can set Password-Iteration Rate.
 * You can also set Symmetric Algorithm Key Size
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
