@@ -50,7 +50,7 @@
 ##  https://discord.gg/d7qrzBhePQ  =   Multron Discord Server - a place that you can get support or talk about technology
 
 
-### Requirements
+# 🛠️ Requirements
 - .NET Framework 4.7.2 or Above
 - Windows 11 Fully supported
 - Windows 10, Windows 8/8.1, Windows 7 Partially supported
