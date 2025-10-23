@@ -1,16 +1,16 @@
 # Multron File Guardian
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--10--13-darkseagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--10--23-seagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date of current version: **October 13, 2025**   
+> 📅 Release date of current version: **October 23, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.4 Release**   
-> 📦 Next release: **1.4.1**
+> 📦 Current version: **Multron File Guardian 1.4.1 Beta 1**   
+> 📦 Next release: **1.4.1 Release (Maybe Beta2), 7ZIP compression option may come**
 
 ---
 
@@ -66,6 +66,6 @@
 
 
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mnguard.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg141b/mnguard.png?raw=true)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mngdark.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg141b/mngdark.png?raw=true)
