@@ -52,6 +52,7 @@
 
 # 🛠️ Requirements
 - .NET Framework 4.7.2 or Above
+- 64 Bit CPU/OS (X64)
 - Windows 11 Fully supported
 - Windows 10, Windows 8/8.1, Windows 7 Partially supported (You may encounter interface problems or bugs, in-case you came to me for fix, I cant help you if you dont use Windows 10)
 
