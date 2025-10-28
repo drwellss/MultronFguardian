@@ -1,16 +1,16 @@
 # Multron File Guardian
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--10--23-seagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--10--28-seagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date of current version: **October 23, 2025**   
+> 📅 Release date of current version: **October 28, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.4.1 Beta 1**   
-> 📦 Next release: **1.4.1 Release (Maybe Beta2), 7ZIP compression option may come**
+> 📦 Current version: **Multron File Guardian 1.4.1 Beta 2**
+> 📦 Next release: **1.4.1 Release (Maybe Beta3)**
 
 ---
 
@@ -18,6 +18,7 @@
  
 - 🔐 Multron File Guardian provides you a strong file encryption.
 - ✅ You can encrypt your files with one click.
+- ✅ Authentication provided via Encrypt-then-MAC Method if you desire.
 - ✅ You can also protect your notes with Multron NoteGuard.
 
 - ✅ Thanks to LinuxUsersLinuxMint for writing this readme file.
@@ -35,12 +36,14 @@
 - 🔐 RSA Hybrided With Symmetric Algorithms
 
 * You can set RSA Key Length (from 2048 to 16384)
-* You can set Password-Iteration Rate.
+* You can set Password-Iteration Rate. (Default rate is 217.685)
 * You can also set Symmetric Algorithm Key Size
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 * You can compress your files before encryption.
 - 🔐 Encrypted File Extension = .mfg
 - 🔐 Multron NoteGuard Encrypted File Extension = .mng
+- 🔐 Block cipher mode is CBC
+- 🔐 PBKDF2 Key derivation
 ## 📚 Notes
 
 - 📚 If you use my codes, please contact me.
