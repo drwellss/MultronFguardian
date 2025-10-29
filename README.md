@@ -44,9 +44,9 @@
 ## 📚 Notes
 
 - 📚 If you use my codes, please contact me.
-- 📚 If you encrypted your files with older version of MFG than 1.3.3, You cant decrypt them with MFG 1.3.3 or newest version, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
-- 📚 If you encrypted your files with older version of MFG than 1.3.9.3, You have to set password iteration rate to 125 from settings to decrypt your files properly, otherwise they wont be decrypted
-
+- ⚠️ If you encrypted your files with older version of MFG than 1.3.3/1.4.1 Beta 2, You cant decrypt them with MFG 1.3.3/1.4.1 Beta 2 or newest version, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
+- ⚠️ If you encrypted your files with older version of MFG than 1.3.9.3, You have to set password iteration rate to 125 from settings to decrypt your files properly, otherwise they wont be decrypted
+- 
 ##  https://discord.gg/d7qrzBhePQ  =   Multron Discord Server - a place that you can get support or talk about technology
 
 
@@ -61,12 +61,12 @@
 
 [DOWNLOADS](https://github.com/drwellss/MultronFguardian/releases)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mfguard.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfguard141b2/mfguard.png?raw=true)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg1.4_r/mfgdark.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfguard141b2/mfgdark.png?raw=true)
 
 
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg141b/mnguard.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfguard141b2/mnguard.png?raw=true)
 
-![alt text](https://github.com/drwellss/MultronFguardian/blob/mfg141b/mngdark.png?raw=true)
+![alt text](https://github.com/drwellss/MultronFguardian/blob/mfguard141b2/mngdark.png?raw=true)
