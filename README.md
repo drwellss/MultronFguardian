@@ -35,12 +35,14 @@
 - 🔐 RSA Hybrided With Symmetric Algorithms
 
 * You can set RSA Key Length (from 2048 to 16384)
-* You can set Password-Iteration Rate.
+* You can set Password-Iteration Rate. (Default is 217.685 Iteration)
 * You can also set Symmetric Algorithm Key Size
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 * You can compress your files before encryption.
 - 🔐 Encrypted File Extension = .mfg
 - 🔐 Multron NoteGuard Encrypted File Extension = .mng
+- 🔐 PBKDF2-SHA512 Key Derivation
+- 🔐 Block Cipher Mode: CBC
 ## 📚 Notes
 
 - 📚 If you use my codes, please contact me.
