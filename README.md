@@ -10,7 +10,7 @@
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
 > 📦 Current version: **Multron File Guardian 1.4.1 Beta 1**   
-> 📦 Next release: **1.4.1 Release (Maybe Beta2), 7ZIP compression option may come**
+> 📦 Next release: **1.4.1 Release (Maybe Beta 3)**
 
 ---
 
