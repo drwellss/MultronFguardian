@@ -50,7 +50,7 @@
 - ⚠️ If you encrypted your files with older version of MFG than 1.3.3/1.4.1 Beta 2, You cant decrypt them with MFG 1.3.3/1.4.1 Beta 2 or newest version, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
 - ⚠️ If you encrypted your files with older version of MFG than 1.3.9.3, You have to set password iteration rate to 125 from settings to decrypt your files properly, otherwise they wont be decrypted
 
-- ⚠️ Encrypt-then-MAC Authentication Method recommended strongly to you against serious potential risk as (Garbage writing incase you give wronng password, file corrupted/compromised)
+- ⚠️ Encrypt-then-MAC Authentication Method recommended strongly to you against serious potential risk as (Garbage writing incase you give wrong password, file corrupted/compromised)
 
 
 
