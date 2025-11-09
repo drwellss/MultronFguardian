@@ -32,7 +32,7 @@
 - 🔐 ThreeFish
 - 🔐 Camellia
 - 🔐 ChaCha20
-- 🔐 RSA Hybrided With Symmetric Algorithms
+- 🔐 RSA Hybrided With Symmetric Algorithms (Key Encapsulation Method)
 
 * You can set RSA Key Length (from 2048 to 16384)
 * You can set Password-Iteration Rate. (Default is 217.685 Iteration)
@@ -43,6 +43,7 @@
 - 🔐 Multron NoteGuard Encrypted File Extension = .mng
 - 🔐 PBKDF2-SHA512 Key Derivation
 - 🔐 Block Cipher Mode: CBC
+- 🔐 Random IV/Nonce | Salt for Each File
 - 🔐 Provided Authentication Method: Encrypt-then-MAC
 ## 📚 Notes
 
