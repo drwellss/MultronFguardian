@@ -9,7 +9,7 @@
 > 📅 Release date of current version: **November 9, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.4.2 Release**   
+> 📦 Current version: **Multron File Guardian 1.4.2.2 Release**   
 > 📦 Next release: **1.4.3 Release (Maybe Beta 1)**
 
 ---
