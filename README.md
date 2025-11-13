@@ -1,15 +1,15 @@
 # Multron File Guardian
 
 ![License: AAL](https://img.shields.io/badge/License-AAL-black.svg)
-![Release Date](https://img.shields.io/badge/Release%20Date-2025--11--10-seagreen)
+![Release Date](https://img.shields.io/badge/Release%20Date-2025--11--13-seagreen)
 
 ---
 
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
-> 📅 Release date of current version: **November 10, 2025**   
+> 📅 Release date of current version: **November 13, 2025**   
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.4.2.3 Release**   
+> 📦 Current version: **Multron File Guardian 1.5 Release**   
 
 ---
 
@@ -31,25 +31,24 @@
 - 🔐 ThreeFish
 - 🔐 Camellia
 - 🔐 ChaCha20
+- 🔐 SM4
 - 🔐 RSA Hybrided With Symmetric Algorithms (Key Encapsulation Method)
 
 * You can set RSA Key Length (from 2048 to 16384)
-* You can set Password-Iteration Rate. (Default is 217.685 Iteration)
+* You can set Password-Iteration Rate. (Default is 4 Iteration)
+* You can set Argon2id Memory Rate. (Default is 256) {256, 512, 1024 } | MB
 * You can also set Symmetric Algorithm Key Size
 * If you're about to share a file securely, then you may want to use one of Hybrid algorithms.
 * You can compress your files before encryption.
 - 🔐 Encrypted File Extension = .mfg
 - 🔐 Multron NoteGuard Encrypted File Extension = .mng
-- 🔐 PBKDF2-SHA512 Key Derivation
+- 🔐 Argon2id Key Derivation
 - 🔐 Block Cipher Mode: CBC
 - 🔐 Random IV/Nonce | Salt for Each File
 - 🔐 Provided Authentication Method: Encrypt-then-MAC
 ## 📚 Notes
 
-- 📚 If you use my codes, please contact me.
-- ⚠️ If you encrypted your files with older version of MFG than 1.3.3/1.4.1 Beta 2, You cant decrypt them with MFG 1.3.3/1.4.1 Beta 2 or newest version, please decrypt them with older version and update your program to newest version, you can find old versions from DOWNLOADS below
-- ⚠️ If you encrypted your files with older version of MFG than 1.3.9.3, You have to set password iteration rate to 125 from settings to decrypt your files properly, otherwise they wont be decrypted
-
+- 📚 If you use my codes, please contact me.  
 - ⚠️ Encrypt-then-MAC Authentication Method recommended strongly to you against serious potential risk as (Garbage writing incase you give wrong password, file corrupted/compromised)
 
 
@@ -61,6 +60,7 @@
 # 🛠️ Requirements
 - .NET Framework 4.7.2 or Above
 - 64 Bit CPU/OS (X64)
+- 2 Core 2 Thread CPU.
 - Windows 11 Fully supported
 - Windows 10, Windows 8/8.1, Windows 7 Partially supported (You may encounter interface problems or bugs, in-case you came to me for fix, I cant help you if you dont use Windows 10)
 
