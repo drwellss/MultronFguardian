@@ -8,7 +8,7 @@
 **Multron File Guardian** is an advanced file encryption software that supports many algorithms.
 > 📅 First release date: **September 24, 2024**   
 > 📦 Initial release: **multronfguardian 1.0 beta**   
-> 📦 Current version: **Multron File Guardian 1.5.3 Release**
+> 📦 Current version: **Multron File Guardian 1.5.3 Release**  
 > 📦 Current Multron NoteGuard version: **1.3.2 Beta 2**   
 
 ---
